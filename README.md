@@ -1,2 +1,3 @@
 # desafios-dio-ntt-data
-Repositório dos desafios da NTT Data-DIO 
+
+Repositório para os desafios da NTT Data e DIO.
